@@ -30,13 +30,13 @@ import Privacypolicy  from '../Components/Privacypolicy';
 
 const HomePage = () => {
   return (
-    <div>
+    <div className=' bg-gray-200'>
        
        {/* <WebServices/> */}
      <Hero/>
      <About/>  
      <OurTeam/>
-     <Contact/>  
+     <Contact />  
       {/* 
      <CrmServices/>
      <ERPPage/>
