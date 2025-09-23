@@ -26,6 +26,14 @@ const Popup = ({data}) => {
     }));
   };
 
+  //  const handleChange = (event) => {
+  //   const  {name, value}  = event.target;
+  //   setFormData((prevData) => ({
+  //     ...prevData,
+  //     [name]: value,
+  //   }));
+  // };
+
 
   return (
     <div className="flex items-center justify-center min-h-screen bg-gray-100">
