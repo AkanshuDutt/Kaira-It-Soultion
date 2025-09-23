@@ -22,7 +22,7 @@ const Hero = () => {
 
           
           <p className="mt-6 text-2xl font-semibold tracking-wide text-gray-300 drop-shadow-lg">
-            Kaira IT Soultion is here to help you.
+            Kaira IT Soultion is here to help you...!
           </p>
 
           <div className="flex flex-col md:flex-row mt-6 md:mt-8 items-center gap-4">
