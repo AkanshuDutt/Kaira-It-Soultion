@@ -62,6 +62,15 @@ const Footer = () => {
               <li><Link to="DigitalMarketingPage" className="hover:text-blue-600">Digital Marketing</Link></li>
             </ul>
           </div>
+          {/* <div>
+            <h4 className="text-lg font-semibold">Our Services</h4>
+            <ul className="mt-2 space-y-2">
+              <li><Link to="WebservicesPage" className="hover:text-blue-600">Web Development services</Link></li>
+              <li><Link to="SoftwareServicespage" className="hover:text-blue-600">Software Development Services</Link></li>
+              <li><Link to="AppServicesPage" className="hover:text-blue-600">Application Development Services</Link></li>
+              <li><Link to="DigitalMarketingPage" className="hover:text-blue-600">Digital Marketing</Link></li>
+            </ul>
+          </div> */}
 
           {/* Social Links */}
           <div>
