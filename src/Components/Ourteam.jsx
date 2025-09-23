@@ -27,8 +27,6 @@ const cards = [
   { name: " Saurabh  kumar  " , role: "( Front-End Developer) ", image:""},
   { name: "Prince Yadav", role: " (Digital Marketing Expert)", image: Prince,},
   { name: "Ravi Rai", role: "( Software Developer )", image:Ravir,},
-  { name: "Abhinandan Mishra" , role: "( Digital Marketing  Expert )", image: Abhi,},
-  { name: "Arya Tyagi " , role: "(Fron-End Developer ) ", image: Arya},
   { name: "Shivam Kumar  " , role: "(Digital Marketing Expert ) ", image:ShivanK},
   { name: " Saurabh Pal " , role: "(Android app developer) ", image:Saurabh},
   
