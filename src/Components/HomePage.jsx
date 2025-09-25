@@ -49,12 +49,6 @@ const HomePage = () => {
       <AppMaintenanceTestingServices/>  */}
      {/* <Popup data = "Login"/> */}
 
-     {/* <OurValue/> */}
-     {/* <Webservices/> */}
-     {/* <SoftwareServices/> */}
-     {/* <AppServices/> */}
-     {/* <DigitalMarketing/> */}
-     {/* <Privacypolicy/> */}
 
     </div>
   );
