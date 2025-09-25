@@ -8,6 +8,11 @@ const Contact = () => {
   useEffect(() => {
     AOS.init({ duration: 1000 });
   }, []);
+  // {
+  // const Contact = () => {
+  // useEffect(() => {
+  //   AOS.init({ duration: 1000 });
+  // }, []);
 
   const leftVariant = {
     hidden: { x: -100, opacity: 0 },
