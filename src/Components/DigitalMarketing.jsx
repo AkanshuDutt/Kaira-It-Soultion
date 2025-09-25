@@ -23,6 +23,14 @@ function DigitalMarketing() {
                         <li><strong>Higher Engagement</strong> – Direct interaction with customers through multiple platforms.</li>
                         <li><strong>Higher Conversion Rates</strong> – Optimized strategies leading to more sales and leads.</li>
                     </ul>
+{/* 
+                     <ul className="list-disc text-gray-600 pl-5 mt-4 space-y-2">
+                        <li><strong>Brand Awareness</strong> – Increase brand visibility across the globe.</li>
+                        <li><strong>Cost-Effective</strong> – More affordable than traditional marketing with better ROI.</li>
+                        <li><strong>Targeted Advertising</strong> – Precise audience targeting based on demographics and behavior.</li>
+                        <li><strong>Higher Engagement</strong> – Direct interaction with customers through multiple platforms.</li>
+                        <li><strong>Higher Conversion Rates</strong> – Optimized strategies leading to more sales and leads.</li>
+                    </ul> */}
                     <div className="text-center mt-20 mb-5">
                         <button className="rounded-full bg-blue-600  text-white py-3 px-6 hover:scale-105 transition">Let's Start</button>
                     </div>
