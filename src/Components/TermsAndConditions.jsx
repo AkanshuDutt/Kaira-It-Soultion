@@ -7,6 +7,7 @@ const TermsAndConditions = () => {
         Terms and Conditions
       </h1>
       <div className="bg-white shadow-md p-6 rounded-lg">
+         {/* <div className="bg-white shadow-md p-6 rounded-lg"> */}
         <h2 className="text-xl font-semibold text-gray-800">1. Introduction</h2>
         <p className="text-gray-600 mt-2">
           Welcome to Kaira IT Solution. By accessing our website and services, you agree to abide by the following terms and conditions.
