@@ -5,6 +5,7 @@ import { BsTwitter, BsFacebook, BsInstagram, BsLinkedin, BsImage } from "react-i
 const Footer = () => {
   return (
     <footer className="bg-gray-900 text-white py-10">
+        {/* <footer className="bg-gray-900 text-white py-10"> */}
 
       {/* Footer Content */}
       <div className="container mx-auto px-6 mt-8">
