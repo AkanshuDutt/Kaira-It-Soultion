@@ -19,6 +19,15 @@ const Hero = () => {
           >
             We create innovative and creative designs manually as per demand
           </motion.h1>
+           {/* <motion.h1
+            className="text-4xl font-bold leading-tight drop-shadow-lg"
+            initial={{ y: -20, color: "#3B82F6" }}
+            animate={{ y: [0, -30, 15, -10, 5, 0], color: [ "#EF4444", "#3B82F6"] }}
+            transition={{ duration: 1.2, ease: "easeInOut", repeat: 3 }}
+            whileHover={{ y: [0, -20, 10, -5, 0], color: ["#EF4444", "#10B981", "#F59E0B", "#3B82F6"] }}
+          > */}
+            We create innovative and creative designs manually as per demand
+          </motion.h1>
 
           
           <p className="mt-6 text-2xl font-semibold tracking-wide text-gray-300 drop-shadow-lg">
