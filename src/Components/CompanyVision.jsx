@@ -23,6 +23,9 @@ const OurVision = () => {
           <h2 className="text-3xl font-bold text-gray-800 mb-6 text-center">
             Our Services
           </h2>
+           {/* <h3 className="text-xl font-semibold text-blue-800 mb-3 ">
+                Software Development 
+              </h3> */}
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
             {/* Web Services */}
             <div className="bg-blue-50 p-6 rounded-lg shadow-md hover:scale-108">
