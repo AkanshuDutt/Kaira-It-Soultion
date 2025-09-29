@@ -9,7 +9,12 @@ const Popup = ({data}) => {
     email:"",
     number:""
   });
- 
+
+  //   const [formData, setFormData] = useState({
+  //   name:"",
+  //   email:"",
+  //   number:""
+  // });
   const handleSubmit = (e) => {
     e.preventDefault();
          
