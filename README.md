@@ -5,7 +5,7 @@ www.kairaitsolution.com
 
 
 📝 About Project (IT Solution Platform)
-
+📝 About Project (IT Solution Platform)
 This project is a web-based IT Solution Platform built using React.js for the frontend. The goal of the application is to provide an interactive and user-friendly interface where clients can explore various IT services and solutions offered by the company.
 
 Key features include:
