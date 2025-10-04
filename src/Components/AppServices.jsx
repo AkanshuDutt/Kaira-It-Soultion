@@ -7,7 +7,6 @@ import  Appmaintains from '../assets/ServicesImage/Appmaintains.jpg'
 import { useNavigate } from 'react-router-dom';
 
 
-// Animation Variants (Left se Drop Effect)
 const cardVariants = {
   hidden: { x: -100, opacity: 0 },
   visible: (i) => ({
