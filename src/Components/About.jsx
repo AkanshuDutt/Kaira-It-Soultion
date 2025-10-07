@@ -9,6 +9,8 @@ const About = () => {
     <section id="about" className="about section py-20 px-4 md:px-8 lg:px-16">
       <div className="container mx-auto" data-aos="fade-up">
         <div className="flex flex-col md:flex-row items-center py-6 gap-8"> 
+
+           {/* <div className="flex flex-col md:flex-row items-center py-6 gap-8">  */}
           
           {/* Left Side Content with Animation */}
           <motion.div 
