@@ -58,7 +58,8 @@ function DigitalMarketing() {
             </div>
             
             {/* Types of Digital Marketing */}
-            <div className="mt-10 bg-white py-6 px-4 md:px-8 rounded-lg shadow-md">
+       
+         <div className="mt-10 bg-white py-6 px-4 md:px-8 rounded-lg shadow-md">
                 <h1 className="text-2xl font-bold text-gray-700 mb-4">Types of Digital Marketing</h1>
                 <ul className="list-disc pl-5 text-gray-600 space-y-2">
                     <li><strong>Search Engine Optimization (SEO)</strong> – Improving website ranking on search engines.</li>
