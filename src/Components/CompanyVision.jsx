@@ -5,7 +5,8 @@ const OurVision = () => {
     <div className="min-h-screen bg-gray-50 py-12 px-4 sm:px-6 lg:px-8 mt-16">
       {/* Our Vision Section */}
       <div className="  bg-white rounded-lg ">
-        <h1 className="text-4xl font-bold text-gray-800 mb-6 text-center">
+
+         <h1 className="text-4xl font-bold text-gray-800 mb-6 text-center">
           Our Vision
         </h1>
         <p className="text-gray-600 leading-relaxed mb-6">
@@ -68,11 +69,13 @@ const OurVision = () => {
             </div>
 
             {/* Technology Maintenance Services */}
-            <div className="bg-blue-50 p-6 rounded-lg shadow-md hover:scale-108">
+
+               <div className="bg-blue-50 p-6 rounded-lg shadow-md hover:scale-108">
               <h3 className="text-xl font-semibold text-blue-800 mb-3 ">
               Maintenance Services
               </h3>
-              <p className="text-gray-600 ">
+
+                <p className="text-gray-600 ">
                 Offering comprehensive Technology maintenance and support to ensure your systems run smoothly and efficiently.
               </p>
             </div>
