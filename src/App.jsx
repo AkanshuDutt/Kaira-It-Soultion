@@ -3,6 +3,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import HomePage from './Components/HomePage';
+// import HomePage from './Components/HomePage';
 import Contact from './Components/Contact';
 import OurVision from './Components/CompanyVision'; 
 import Student from './Components/Student';
