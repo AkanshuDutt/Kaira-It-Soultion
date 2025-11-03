@@ -3,7 +3,7 @@ import React from 'react';
 const OurVision = () => {
   return (
     <div className="min-h-screen bg-gray-50 py-12 px-4 sm:px-6 lg:px-8 mt-16">
-      {/* Our Vision Section */}
+      /* {/* Our Vision Section */} */
       <div className="  bg-white rounded-lg ">
 
          <h1 className="text-4xl font-bold text-gray-800 mb-6 text-center">
