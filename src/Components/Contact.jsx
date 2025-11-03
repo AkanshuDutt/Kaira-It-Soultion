@@ -27,6 +27,10 @@ const Contact = () => {
         <h2 className="text-3xl font-bold text-blue-700">Contact Us</h2>
       </div>
 
+        {/* <div className="container mx-auto text-center mb-5">
+        <h2 className="text-3xl font-bold text-blue-700">Contact Us</h2>
+      </div> */}
+
       <div className="container mx-auto px-6 md:px-12 bg-gray-100">
         <div className="grid md:grid-cols-2 gap-8">
           {/* Contact Info */}
