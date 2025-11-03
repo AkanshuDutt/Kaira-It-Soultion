@@ -2,11 +2,13 @@ import React from 'react';
 import img from "../assets/ServicesImage/img.jpg";
 import img2 from "../assets/ServicesImage/img2.jpg";
 
+// >.....
+
 function DigitalMarketing() {
     return (
         <div className="bg-gray-100 p-4 mt-10 md:p-8">
             {/* Header Section */}
-            <div className="flex flex-col md:flex-row bg-white py-4 px-4 md:px-8 rounded-lg shadow-md">
+            <div className="flex flex-col md:flex-row Bg-white py-4 px-4 md:px-8 rounded-lg shadow-md">
                 <div className="w-full md:w-1/2 flex justify-center">
                     <img src={img} alt="Digital Marketing" className="w-full md:w-3/4 h-auto object-cover rounded-lg" />
                 </div>
