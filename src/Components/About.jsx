@@ -10,7 +10,8 @@ const About = () => {
       <div className="container mx-auto" data-aos="fade-up">
         <div className="flex flex-col md:flex-row items-center py-6 gap-8"> 
 
-           {/* <div className="flex flex-col md:flex-row items-center py-6 gap-8">  */}
+           /* {/* <div className="flex flex-col md:flex-row items-center py-6 gap-8">  */}
+          */
           
           {/* Left Side Content with Animation */}
           <motion.div 
