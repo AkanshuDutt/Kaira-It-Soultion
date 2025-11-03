@@ -10,11 +10,11 @@ const faqs = [
         answer:
             "App maintenance and testing ensure that applications remain functional, secure, and up-to-date by fixing bugs, optimizing performance, and updating features.",
     },
-    {
-        question: "Why is regular app maintenance important?",
-        answer:
-            "Regular maintenance enhances app performance, ensures security, improves user experience, and keeps the application compatible with the latest OS updates.",
-    },
+    // {
+    //     question: "Why is regular app maintenance important?",
+    //     answer:
+    //         "Regular maintenance enhances app performance, ensures security, improves user experience, and keeps the application compatible with the latest OS updates.",
+    // },
     {
         question: "What types of testing are crucial for an app?",
         answer:
