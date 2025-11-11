@@ -33,7 +33,8 @@ import AppServices from './Components/AppServices'
 import DigitalMarketing from './Components/DigitalMarketing';
 import TermsAndConditions from './Components/TermsAndConditions';
 import Privacypolicy from './Components/Privacypolicy'
-// import Privacypolicy from './Components/Privacypolicy'
+import Privacypolicy from './Components/Privacypolicy'
+
 import CarrerPage from '../src/Components/ServicesPages/CarrerPage'
 const webServiceRoutes = [
   { path: "UIPage", element: <UIpage /> },
