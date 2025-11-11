@@ -42,13 +42,6 @@ const webServiceRoutes = [
   { path: "CmsPage", element: <CMSPage /> },
   { path: "Contact", element: <Contact /> },
 ];
-// const webServiceRoutes = [
-//   { path: "UIPage", element: <UIpage /> },
-//   { path: "front", element: <FrontEnd /> },
-//   { path: "Back", element: <BackendDev /> },
-//   { path: "CmsPage", element: <CMSPage /> },
-//   { path: "Contact", element: <Contact /> },
-// ];
 
 
 function App() {
