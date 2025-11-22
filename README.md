@@ -16,4 +16,4 @@ About & Contact Pages: Informative pages to share company background and provide
 
 Scalable Structure: Component-based architecture in React for better reusability and maintainability.
 
-This project helped in strengthening my understanding of React concepts such as components, props, state management, routing, and integration with APIs. It was designed as a practical learning project while exploring frontend development.
+This project helped in strengthening my understanding of React concepts such as components, props, state management, routing, and integration with APIs. It was designed as a practical learning project while exploring frontend development.....!
